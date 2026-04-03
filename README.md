@@ -1,4 +1,4 @@
-# 🕵️ OSINT Investigation: Suspicious Recruitment Case  
+# OSINT Investigation: Suspicious Recruitment Case  
 
 This repository documents an OSINT (Open Source Intelligence) investigation focused on a **suspicious recruitment activity** linked to multiple platforms, phone numbers, and online services.  
 
@@ -6,7 +6,7 @@ The objective of this project is to analyze patterns, correlate data, and recons
 
 ---
 
-## 📌 Overview  
+## Overview  
 
 The investigation started from a seemingly legitimate job offer that quickly revealed inconsistencies.  
 
@@ -20,7 +20,7 @@ Through structured analysis, the case exposed:
 
 ---
 
-## 🧠 Key Findings  
+## Key Findings  
 
 - Phone numbers act as the **core of the operation**  
 - No stable digital identity or infrastructure  
@@ -28,12 +28,12 @@ Through structured analysis, the case exposed:
 - Evidence of **evasive and adaptive behavior**  
 - Clear recruitment → redirection → escalation pattern  
 
-📄 Full analysis:  
+Full analysis:  
 - [`analysis/findings.md`](./analysis/findings.md)
 
 ---
 
-## 🧪 Methodology  
+## Methodology  
 
 The investigation follows a **passive OSINT methodology** based on:  
 
@@ -44,12 +44,12 @@ The investigation follows a **passive OSINT methodology** based on:
 
 No intrusive or illegal techniques were used.  
 
-📄 Full methodology:  
+Full methodology:  
 - [`analysis/methodology.md`](./analysis/methodology.md)
 
 ---
 
-## 🕒 Investigation Timeline  
+## Investigation Timeline  
 
 The investigation was conducted step by step, documenting how each discovery led to the next.  
 
@@ -59,12 +59,12 @@ The investigation was conducted step by step, documenting how each discovery led
 - Number rotation detection  
 - Pattern consolidation  
 
-📄 Full timeline:  
+Full timeline:  
 - [`analysis/timeline.md`](./analysis/timeline.md)
 
 ---
 
-## 🗂️ Repository Structure  
+## Repository Structure  
 
 ```text
 .
@@ -111,15 +111,15 @@ The investigation was conducted step by step, documenting how each discovery led
 ```
 ---
 
-## 📸 Evidence Samples  
+## Evidence Samples  
 
-### 📱 Recruitment Content  
+### Recruitment Content  
 
 ![Facebook Recruitment](./evidence/ads/facebook_post_recruitment.png)  
 
 ---
 
-### 💬 WhatsApp Interaction  
+### WhatsApp Interaction  
 
 ![WhatsApp Contact](./evidence/chats/whatsapp_contact_info.png)  
 ![Debt Claim](./evidence/chats/whatsapp_debt_claim.png)  
@@ -127,14 +127,14 @@ The investigation was conducted step by step, documenting how each discovery led
 
 ---
 
-### 🌐 Web & Services  
+### Web & Services  
 
 ![Web Listing](./evidence/ads/web_listing_services.png)  
 ![Service Offers](./evidence/ads/web_services_offers.png)  
 
 ---
 
-### 🔍 OSINT & Technical Analysis  
+### OSINT & Technical Analysis  
 
 ![NXDOMAIN](./evidence/screenshots/domain_nxdomain.png)  
 ![Google Search](./evidence/screenshots/google_search_phone_main.png)  
@@ -144,14 +144,14 @@ The investigation was conducted step by step, documenting how each discovery led
 
 ---
 
-## 🔗 Key Indicators  
+## Key Indicators  
 
 The following elements were consistently linked across the investigation:  
 
-- 📱 Phone numbers  
-- 🌐 Domain: `miramedesdecasa.com`  
-- 📧 Email: `mdcasa2020@gmail.com`  
-- 🌍 Social media accounts  
+- Phone numbers  
+- Domain: `miramedesdecasa.com`  
+- Email: `mdcasa2020@gmail.com`  
+- Social media accounts  
 
 These elements only become meaningful when analyzed **together**, not individually.  
 
@@ -170,7 +170,7 @@ All conclusions are **analytical and non-conclusive**.
 
 ---
 
-## 💡 Final Insight  
+## Final Insight  
 
 > The operation does not rely on infrastructure, but on communication.  
 
@@ -182,7 +182,7 @@ By avoiding persistence and rotating identifiers, the activity achieves:
 
 ---
 
-## 🚀 About This Project  
+## About This Project  
 
 This project was developed as part of a learning process in:  
 
